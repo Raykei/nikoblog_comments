@@ -1,0 +1,8 @@
+{
+  "origins": [
+    "https://nikobot.netlify.app/"
+  ]
+  // Default: Comments from oldest to newest, to change that uncommend this
+  //,
+  // "defaultCommentOrder": "oldest"
+}
